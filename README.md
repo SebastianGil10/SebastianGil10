@@ -20,10 +20,22 @@ Busco aplicar esta combinación de ciencia de datos, automatización y enfoque t
 
 ---
 
-### 📌 Proyectos Destacados
-- [**Análisis de consumo musical🎵🎵**](ENLACE_GITHUB): Comparativa de hábitos de escucha entre ciudades.
-- [**Dashboard Zuber🚖🚖**](ENLACE_GITHUB): Visualización interactiva de datos de transporte en Chicago.
-- [**Base de Datos ICA🗄️🗄️ – Antioquia**](ENLACE_GITHUB): Gestión y consulta de datos tributarios en PostgreSQL.
+## 🚀 Proyectos Destacados
+
+### 📊 Ride-Sharing Data Analysis (Zuber Project)
+- Análisis exploratorio de datos para identificar patrones de demanda y comportamiento de usuarios.
+- Evaluación del impacto de variables externas como el clima en la duración de los viajes.
+- Herramientas: Python (Pandas, NumPy), SQL, Matplotlib, Seaborn.
+
+### 📈 Interactive Dashboard with Streamlit
+- Desarrollo de dashboards interactivos para visualización de métricas clave.
+- Implementación de filtros dinámicos y automatización del análisis.
+- Herramientas: Python, Streamlit, Pandas, Git.
+
+### 🗄 Tax Data Management System (PostgreSQL)
+- Diseño e implementación de base de datos relacional para gestión tributaria (ICA).
+- Modelado de datos y optimización de consultas SQL.
+- Herramientas: PostgreSQL, SQL, Data Modeling.
 
 ---
 
