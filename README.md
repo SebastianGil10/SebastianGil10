@@ -29,7 +29,7 @@ Busco aplicar esta combinación de ciencia de datos, automatización y enfoque t
 
 ### 📫 Conecta conmigo
 - **Correo:** juan.ambiental99@gmail.com
-- **LinkedIn:** [www.linkedin.com/in/juan-sebastian-gil-garnica]
+- **LinkedIn:** [www.linkedin.com/in/sebastiangil-dataanalyst]
 - **GitHub:** [SebastiánGil10](https://github.com/SebastiánGil10)
 
 ---
