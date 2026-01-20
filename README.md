@@ -1,8 +1,13 @@
 # ¡Hola, soy Juan Sebastián Gil! 👋
 
-### Científico de Datos | Especialista en Tecnología | Apasionado por la analítica y la optimización de sistemas
+### Data Scientist Jr | Python • SQL • Pandas • Streamlit • Power BI | Automation & Data Analyst 
 
-Soy Tecnólogo en Saneamiento Ambiental y Especialista en Tecnología Profesional con experiencia en soporte técnico, análisis de datos y desarrollo de soluciones basadas en datos. Mi objetivo es transformar información en decisiones estratégicas y aportar valor a través de la ciencia de datos.
+Científico de Datos Junior certificado en el Bootcamp de Data Science de TripleTen, con formación práctica orientada a proyectos reales en Python, SQL, Machine Learning y visualización de datos. Cuento con experiencia en limpieza, análisis exploratorio, modelado predictivo y construcción de soluciones basadas en datos aplicadas a contextos de negocio.
+
+Mi experiencia previa en soporte técnico, sistemas y mantenimiento IT me ha permitido desarrollar habilidades sólidas en resolución de problemas, pensamiento analítico, atención al detalle y trabajo bajo presión, así como una comprensión técnica integral de entornos tecnológicos.
+
+Busco aplicar esta combinación de ciencia de datos, automatización y enfoque técnico para optimizar procesos, generar insights accionables y apoyar la toma de decisiones estratégicas basadas en datos dentro de organizaciones orientadas a la innovación.
+
 
 ---
 
